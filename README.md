@@ -1,4 +1,4 @@
-```sh
+```
 [user@user-hifia75s3 ~]$ neofetch
                        ./o.                 user@user-hifia75s3
                ````  ./sssso-      ,,,      -------------------
